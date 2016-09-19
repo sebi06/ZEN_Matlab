@@ -2,12 +2,12 @@
 ZEN_Matlab
 ===============================
 
-This example illustrates the possibility to control the ZEN Blue microscope control software from within a MATLAB script via the COM interface. This allows using the ZEN Python scripts as an integral part of an M-File. 
-The ZEN OAD (Open Application Development) API can be imported into MATLAB and allows automating the complete workflow including the image acquisition from MATLAB. 
-- ZEN is used as an image acquisition machine 
-- the experiment is started directly from within MATLAB 
-- the resulting CZI file is imported via BioFormats 
-- the image analysis is done in MATLAB
+This example illustrates the possibility to control the ZEN Blue microscope control software from within a MATLAB script via the COM interface. This allows using the ZEN Python scripts as an integral part of an M-File. The ZEN OAD (Open Application Development) API can be imported into MATLAB and allows automating the complete workflow including the image acquisition from MATLAB. 
+
+* `ZEN is used as an image acquisition machine`_
+* `the experiment is started directly from within MATLAB`_
+* `the resulting CZI file is imported via BioFormats`_
+* `the image analysis is done in MATLAB`_
 
 :Author: Sebastian Rhode
 
