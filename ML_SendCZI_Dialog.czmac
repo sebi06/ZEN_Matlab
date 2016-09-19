@@ -38,7 +38,7 @@ if result.HasCanceled == True:
 cziname = result.GetValue('czi')
 
 try: 
-    MATLAB = Marshal.GetActiveObject('MATLAB.Application.8.5')
+    MATLAB = Marshal.GetActiveObject('MATLAB.Application.9.0')
     print 'ZEN-MATLAB bridge is OK.'
     MLOK = True
 except:
