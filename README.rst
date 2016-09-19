@@ -15,10 +15,7 @@ This example illustrates the possibility to control the ZEN Blue microscope cont
 
 Notes
 -----
-The package is still under development and was mainly tested with CZI files.
-
-The python-bioformats package includes loci_tool.jar but it is also possible to use the latest bioformats_package.jar.
-Currently the 5.1.10 version of bioformats_package.jar is used.
+The package is still under development and was mainly tested with CZI files. Currently the 5.1.10 version of bioformats_package.jar and its warpper for Matlab was used to test it.
 
 Acknowledgements
 ----------------
